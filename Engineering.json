@@ -1,0 +1,314 @@
+[
+    {
+        "name": "Common Subjects",
+        "link": [
+            {
+                "title": "Technology & Engineering Questions and Solutions : StemEZ",
+                "link": "/document/bnZnR2hPaUVqRU9TbFc2Rmp1MVJzekxUb0hLWUJWK01yKy9RNFBZemhRWT0"
+            },
+            {
+                "title": "Engineering and Science Video Lecture Series : NPTEL",
+                "link": "/document/WitzMnFLSWlSY2ZhSFlGSktMTTJlZz09"
+            },
+            {
+                "title": "Engineering & Science Books: OpenStax CNX",
+                "link": "/result?q={%22t%22:%22search%22,%22k%22:%22computer%20science%20engineering%22,%22s%22:[%22accessRights=\\%22open\\%22%22,%22learningResourceType=\\%22book\\%22%22,%22sourceOrganization=\\%22OpenStax%20CNX\\%22%22],%22b%22:{%22filters%22:[]}}"
+            }
+        ]
+    },
+    {
+        "name": "Aerospace Engineering",
+        "link": [
+            {
+                "title": "Video Lectures, Web Course : NPTEL",
+                "link": "/document/Z2JzN0ZmU2VhdW5kODBJdWRCTmg3S3hYeEhaakt4K0pBWHhCTVlFc3pxRT0"
+            },
+            {
+                "title": "Video Lectures, Web Course : Swayam (NPTEL)",
+                "link": "/document/S1loNUNiRE91VEk4NzFxWDNoYW05b0JUdjN5Tlp2MnVJSDFvb0Vid2wvaWQ5Vi9oREYrM2dxekJpYzJRZFJZSA"
+            },
+            {
+                "title": "Journal: OMICS International",
+                "link": "/document/MGJpS2pNcFlOcXdMUk9HTHUvb0pQWmxqNlZJbmpTTkNTMmdEWEZFSEhmbz0"
+            },
+            {
+                "title": "Video Lectures: MIT OpenCourseWare",
+                "link": "/document/aUUzSzg0NXozaDZheVpnMEtnb3lZcThBbjZFb3N1SXo3OE9OQWkxbGtlYz0"
+            },
+            {
+                "title": "Books on Aeronautics : NASA - e-Book Archive",
+                "link": "/document/UEFUV3JBNXZxMFhWa1JXRjB2QXEwR0JYcWpCTU1qUlZBdGx5aXBpaGNBNlFHT1JRVk9hWHA3Si93RVpsVC8zQw"
+            },
+            {
+                "title": "Books on Flight Supersonic Flight  : NASA - e-Book Archive",
+                "link": "/result?q={%22t%22:%22search%22,%22k%22:%22*%22,%22s%22:[%22nameApprox=*Supersonic%20Flight%22,%22sourceOrganization=\\%22NASA%20%3A%3A%20e-Book%20Archive\\%22%22],%22b%22:{%22filters%22:[]}}"
+            },
+            {
+                "title": "Books: Rockets and People  : NASA - e-Book Archive",
+                "link": "/result?q={%22t%22:%22search%22,%22k%22:%22*%22,%22s%22:[%22nameApprox=Rockets%20and%20People%22,%22authorApprox=chertok%2C%20Boris%22,%22sourceOrganization=\\%22NASA%20%3A%3A%20e-Book%20Archive\\%22%22],%22b%22:{%22filters%22:[]}}"
+            },
+            {
+                "title": "Books on Unmanned Aircraft System : NASA - e-Book Archive",
+                "link": "/result?q={%22t%22:%22sourceOrganization%22,%22k%22:%22%22,%22s%22:[],%22b%22:{%22browse%22:%22sourceOrganization%22,%22filters%22:[%22author=\\%22Merlin%2C%20Peter%20W.\\%22|\\%22Kinney%2C%20Jeremy%20R.\\%22|\\%22Benson%2C%20Lawrence%20R.\\%22%22,%22sourceOrganization=\\%22NASA%20%3A%3A%20e-Book%20Archive\\%22%22]}}"
+            },
+            {
+                "title": "Books on ISS Research : NASA - e-Book Archive",
+                "link": "/document/UEFUV3JBNXZxMFhWa1JXRjB2QXEwREhPRGljdXdsR0MvbDNyVFZoN0FWaENIc1RDM1FhNWl4bmRIY0YxR0xpcQ"
+            },
+            {
+                "title": "Books on Space Shuttle Program : NASA - e-Book Archive",
+                "link": "/result?q=%7B%22t%22:%22search%22,%22k%22:%22*%22,%22s%22:[%22nameApprox=Shuttle%22,%22sourceOrganization=%5C%22NASA%20%3A%3A%20e-Book%20Archive%5C%22%22],%22b%22:%7B%22filters%22:[]%7D%7D"
+            },
+            {
+                "title": "Books on Hubble Telescope : NASA - e-Book Archive",
+                "link": "/result?q={%22t%22:%22search%22,%22k%22:%22Hubble%20Telescope%22,%22s%22:[%22sourceOrganization=\\%22NASA%20%3A%3A%20e-Book%20Archive\\%22%22],%22b%22:{%22filters%22:[]}}"
+            }
+        ]
+    },
+    {
+        "name": "Architecture",
+        "link": [
+            {
+                "title": "Video Lecture, Web Course: NPTEL",
+                "link": "/document/Z2JzN0ZmU2VhdW5kODBJdWRCTmg3SVJHWTFWSnFQRFlLcFRRazZjMkVIODVoMi9lNGlRa2ltcFhLaVM2WVliSQ"
+            },
+            {
+                "title": "Video Lecture, Web Course: Swayam (NPTEL)",
+                "link": "/document/S1loNUNiRE91VEk4NzFxWDNoYW05aUV0QzZ2c1JtakxKZHVOYm9GTjdqR2ZmNVZENDY1S3JQY1pPRnN5eEkxQw"
+            },
+            {
+                "title": "Video Lecture: WatchKnowLearn",
+                "link": "/result?q=%7B%22t%22:%22search%22,%22k%22:%22architecture%22,%22s%22:[%22accessRights=%5C%22open%5C%22%22,%22inLanguage=%5C%22eng%5C%22%22,%22sourceOrganization=%5C%22WatchKnowLearn%5C%22%22],%22b%22:%7B%22filters%22:[]%7D%7D"
+            },
+            {
+                "title": "Video Lecture, Article: Khan Academy",
+                "link": "/result?q=%7B%22t%22:%22search%22,%22k%22:%22architecture%22,%22s%22:[%22accessRights=%5C%22open%5C%22%22,%22inLanguage=%5C%22eng%5C%22%22,%22sourceOrganization=%5C%22Khan%20Academy%5C%22%22],%22b%22:%7B%22filters%22:[]%7D%7D"
+            },
+            {
+                "title": "Book, Magazine, Manual, Rreport, Catalogue: Internet Archive-Library of Congress",
+                "link": "/result?q={%22t%22:%22search%22,%22k%22:%22architecture%22,%22s%22:[%22accessRights=\\%22open\\%22%22,%22inLanguage=\\%22eng\\%22%22,%22sourceOrganization=\\%22Internet%20Archive%20%3A%3A%20Library%20of%20Congress\\%22%22],%22b%22:{%22filters%22:[]}}"
+            },
+            {
+                "title": "Book: Project Gutenberg",
+                "link": "/result?q=%7B%22t%22:%22search%22,%22k%22:%22architecture%22,%22s%22:[%22accessRights=%5C%22open%5C%22%22,%22inLanguage=%5C%22eng%5C%22%22,%22sourceOrganization=%5C%22Project%20Gutenberg%5C%22%22],%22b%22:%7B%22filters%22:[]%7D%7D"
+            },
+            {
+                "title": "Journal: OMICS International",
+                "link": "/document/bi94aXdnNUNjMFlhUjdzRlBFbWJUMXJZa3BqdDVDWTBuTzFNcFlHTHQ4dz0"
+            },
+            {
+                "title": "Book, Chapter, Exercise, Introduction to Engineering Design: CK-12",
+                "link": "/document/ZW1VY20rWFpDcXQyMHVVZGFnWlFjUT09"
+            },
+            {
+                "title": "Photograph: PBS LearningMedia",
+                "link": "/result?q=%7B%22t%22:%22search%22,%22k%22:%22architecture%22,%22s%22:[%22accessRights=%5C%22open%5C%22%22,%22inLanguage=%5C%22eng%5C%22%22,%22sourceOrganization=%5C%22PBS%20LearningMedia%5C%22%22],%22b%22:%7B%22filters%22:[]%7D%7D"
+            },
+            {
+                "title": "Photograph: University of North Texas",
+                "link": "/result?q=%7B%22t%22:%22search%22,%22k%22:%22architecture%22,%22s%22:[%22accessRights=%5C%22open%5C%22%22,%22inLanguage=%5C%22eng%5C%22%22,%22learningResourceType=%5C%22Photograph%5C%22%22,%22sourceOrganization=%5C%22University%20of%20North%20Texas%5C%22%22],%22b%22:%7B%22filters%22:[]%7D%7D"
+            }
+        ]
+    },
+    {
+        "name": "Chemical Engineering",
+        "link": [
+            {
+                "title": "Video Lectures, Web Course : NPTEL",
+                "link": "/document/Z2JzN0ZmU2VhdW5kODBJdWRCTmg3RFkzeEhyMDNTNDRjQ2xiYmprL3A5czIxME9PdGh6Y0ltYzVnd0FiZllTaA"
+            },
+            {
+                "title": "Video Lectures, Web Course : Swayam (NPTEL)",
+                "link": "/document/S1loNUNiRE91VEk4NzFxWDNoYW05aW9HRitYdjk4T3lJNzk5VlFJeU5jWGFZb2NsNUtkSHhzWHFlSHpZdk9pMw"
+            }
+        ]
+    },
+    {
+        "name": "Civil Engineering",
+        "link": [
+            {
+                "title": "Civil Services Examination Question Paper: UPSC-Civil Services Examination",
+                "link": "/document/UzhiRXVQeVNBUHF5RjJHVXBGM0xqWjlMQjZUek92bWk4Rjg4NTQrR2VEVT0"
+            },
+            {
+                "title": "Video Lectures, Web Course : NPTEL",
+                "link": "/document/Z2JzN0ZmU2VhdW5kODBJdWRCTmg3UDNjMzh2eDFtVkQ2WEdQYmtCWXFHMWxYOXpzUEM3eVZrUXZCcFE4M1B5Qg"
+            }
+        ]
+    },
+    {
+        "name": "Computer Science & Engineering",
+        "link": [
+            {
+                "title": "Presentations: Science Supercourse",
+                "link": "/result?q={%22t%22:%22search%22,%22k%22:%22computer%20science%20engineering%22,%22s%22:[%22accessRights=\\%22open\\%22%22,%22sourceOrganization=\\%22Science%20Supercourse\\%22%22],%22b%22:{%22filters%22:[]}}"
+            },
+            {
+                "title": "Video lectures, Notes: MIT OpenCourseware",
+                "link": "/document/aUUzSzg0NXozaDZheVpnMEtnb3lZclAvRWllWmN0VUxxeFpzVURYaUxyWT0"
+            },
+            {
+                "title": "Video Lectures, Web Course : NPTEL",
+                "link": "/document/Z2JzN0ZmU2VhdW5kODBJdWRCTmg3T1FucU13TFpJc1k5UzBGeHBMOU1FU3Y4T2UxY0c3TURWN1JiSXVudzJtaw"
+            },
+            {
+                "title": "Video Lectures, Web Course : Swayam (NPTEL)",
+                "link": "/document/S1loNUNiRE91VEk4NzFxWDNoYW05cFYyTDJlcG5oWC9MdGJkSXdFN2JTMlFmbnpHVDlkdnpPWFRhemVrMG5zYw"
+            },
+            {
+                "title": "Videos, Texts : SWAYAM :: UGC - MOOCs",
+                "link": "/result?q={%22t%22:%22search%22,%22k%22:%22computer%22,%22s%22:[%22sourceOrganization=\\%22SWAYAM%20%3A%3A%20UGC%20-%20MOOCs\\%22%22],%22b%22:{%22filters%22:[]}}"
+            },
+            {
+                "title": "Video Lectures: Spoken Tutorial",
+                "link": "/result?q={\"t\":\"search\",\"k\":\"computer%20science\",\"s\":[\"educationalLevel=\\\"ug_pg\\\"\"\"\""
+            },
+            {
+                "title": "Video Lectures on Machine Learning: YouTube",
+                "link": "/document/SitNSUNNU0MxTmxYeTZzbUo5Q0F2N1dkczVVSW1pK2g5NGZhNTB5dnA0WGpwdzNZWFEwTnNCcWRNdm45bUd4TWJWVmErRWx5Yk1VSHg5cHV4N2xHbWc9PQ"
+            },
+            {
+                "title": "Video Lectures : CEC",
+                "link": "/document/Rm5qb3lqRngwWDZ2Tnl6UXl4VU9YQ2RrNnFwUTdOQzlUbGpqeDVhVHhaNm43dzNxajlXY043SVBMY3NwSkY3Y0ZPL0FjZ1FOcm9QUzlzU2tPTTNEUHc9PQ"
+            },
+            {
+                "title": "Video Lectures onTwo Dimensional Array : Faculty Contribution",
+                "link": "/result?q={%22t%22:%22search%22,%22k%22:%22Two%20Dimensional%20Array%22,%22s%22:[%22author=\\%22Mitra%2C%20Pralay\\%22|\\%22Sarkar%2C%20Sudeshna\\%22|\\%22Mitra%2C%20Pabitra\\%22%22,%22sourceOrganization=\\%22Faculty%20Contribution\\%22%22],%22b%22:{%22browse%22:%22sourceOrganization%22,%22filters%22:[%22sourceOrganization=\\%22Faculty%20Contribution\\%22%22]}}"
+            },
+            {
+                "title": "Video Lectures on Machine Learning using Python : Faculty Contribution",
+                "link": "/document/YkxlRXFvZXJrTDBkVzVVZi9ESjl6eXpRZkxRc2lhOWhlVXBhUVVWaXZlNDNyZUVldU9LdlYvd20wbkQ4MC92UQ"
+            },
+            {
+                "title": "Video Lectures on Deep Learning Explainability and Bias in AI : Faculty Contribution",
+                "link": "/document/YkxlRXFvZXJrTDBkVzVVZi9ESjl6OGtNZTN2RXJMbm9GUjUxUW5xRTNJL0pMWFcxWDBIK3g5Uk9NYWIyV1RLUw"
+            },
+            {
+                "title": "Video Lectures on Data Structure: Faculty Contribution",
+                "link": "/result?q={\"t\":\"search\",\"k\":\"Two%20Dimensional%20Array\",\"s\":[\"author=\\\"Mitra%2C%20Pralay\\\"\"|\\\"\"Sarkar%2C%20Sudeshna\\\"\"|\\\"\"Mitra%2C%20Pabitra\\\"\"\"\""
+            }
+        ]
+    },
+    {
+        "name": "Electrical Engineering",
+        "link": [
+            {
+                "title": "Books: Internet Archive-Library of Congress",
+                "link": "/result?q={%22t%22:%22search%22,%22k%22:%22Electrical%20Engineering%22,%22s%22:[%22accessRights=\\%22open\\%22%22,%22inLanguage=\\%22eng\\%22%22,%22learningResourceType=\\%22book\\%22%22,%22sourceOrganization=\\%22Internet%20Archive%20%3A%3A%20Library%20of%20Congress\\%22%22],%22b%22:{%22filters%22:[]}}"
+            },
+            {
+                "title": "Presentaions: Science Supercourse",
+                "link": "/result?q={%22t%22:%22search%22,%22k%22:%22electrical%20Engineering%22,%22s%22:[%22accessRights=\\%22open\\%22%22,%22sourceOrganization=\\%22Science%20Supercourse\\%22%22],%22b%22:{%22filters%22:[]}}"
+            },
+            {
+                "title": "Video Lectures, Web Course : NPTEL",
+                "link": "/document/Z2JzN0ZmU2VhdW5kODBJdWRCTmg3SFdPTCs0WCtqUFE2a3RrK0VsTFg1Zko5UGNNVjNZOFVLWHZ0ZUtyVC9BLw"
+            },
+            {
+                "title": "Video Lectures, Web Course : Swayam (NPTEL)",
+                "link": "/document/S1loNUNiRE91VEk4NzFxWDNoYW05bEZyNmZFN2xMa0FQVzFRbU5XSERGeHcwbUwrelRBMC9CSldJeTRiN05tRw"
+            },
+            {
+                "title": "Video Lectures on Phasor Concepts and Electrical Machines : Faculty Contribution",
+                "link": "/document/YkxlRXFvZXJrTDBkVzVVZi9ESjl6L0d2eXNCNjg3alhBbzQ1S3FZaGhFV3RwaE1uV3NqVWtwR09LalNFU1dqbg"
+            },
+            {
+                "title": "Video Lectures on Transformer : Faculty Contribution",
+                "link": "/result?q={%22t%22:%22search%22,%22k%22:%22Transformer%22,%22s%22:[%22author=\\%22Chakraborty%2C%20Chandan\\%22|\\%22Chattopadhyay%2C%20Souvik\\%22|\\%22Patra%2C%20Amit\\%22%22,%22fileFormat=\\%22video%2Fmp4\\%22%22,%22sourceOrganization=\\%22Faculty%20Contribution\\%22%22],%22b%22:{%22filters%22:[]}}"
+            },
+            {
+                "title": "Video Lectures : Faculty Contribution",
+                "link": "/document/YkxlRXFvZXJrTDBkVzVVZi9ESjl6eXBiYktYSGlVT3dwMU5td1o1alFMOU1FT1RIWVVkZ2hvSEtYd0lkdWhydg"
+            },
+            {
+                "title": "Video Lectures on Digital Signal Processing : Faculty Contribution",
+                "link": "/document/YkxlRXFvZXJrTDBkVzVVZi9ESjl6K3Uyak1hNWpnSWpBZ1ByRTh5WjVhSGhIMEw4ZFFlVnpsNEhEVGd5Wll6UQ"
+            }
+        ]
+    },
+    {
+        "name": "Electronics & Communication Engineering",
+        "link": [
+            {
+                "title": "Video lectures, Web Course: NPTEL",
+                "link": "/document/Z2JzN0ZmU2VhdW5kODBJdWRCTmg3QmhDaG5YcjRDaDFwaHlIZ04vSTdJV1NCcllnTzNidEkxWU9ERytXRm9QUg"
+            },
+            {
+                "title": "Video lectures, Web Course: Swayam (NPTEL)",
+                "link": "/document/S1loNUNiRE91VEk4NzFxWDNoYW05bGN2NmxONEJJMXRnQTAwVzJiUExxWjFXVDJaZ21VbFM5dXFlSmdKSXh1dw"
+            },
+            {
+                "title": "Video lectures: MIT OpenCourseWare",
+                "link": "/document/aUUzSzg0NXozaDZheVpnMEtnb3lZdVpqYWpNTmduL0g4RkQ2M1VFMUlKVT0"
+            }
+        ]
+    },
+    {
+        "name": "Mechanical Engineering",
+        "link": [
+            {
+                "title": "Books: National Science Digital Library (NSDL)",
+                "link": "/result?q={%22t%22:%22search%22,%22k%22:%22Mechanical%20Engineering%22,%22s%22:[%22accessRights=\\%22open\\%22%22,%22educationalLevel=\\%22ug_pg\\%22%22,%22inLanguage=\\%22eng\\%22%22,%22learningResourceType=\\%22book\\%22%22,%22sourceOrganization=\\%22National%20Science%20Digital%20Library%20(NSDL)\\%22%22],%22b%22:{%22filters%22:[]}}"
+            },
+            {
+                "title": "Video Lectures, Web Course : NPTEL",
+                "link": "/document/Z2JzN0ZmU2VhdW5kODBJdWRCTmg3SmtKTjlYNlR5dHBHekp4SDJQSjducmRYVU1pc1ZpRDd1OWJOOHZHcGZyNg"
+            },
+            {
+                "title": "Video Lectures, Web Course : Swayam (NPTEL)",
+                "link": "/document/S1loNUNiRE91VEk4NzFxWDNoYW05dWx6eU10M3ZOa05nNlM3MHN2YldFTlorZlVJNnFsOHlUSitMejNrb0d1Rw"
+            },
+            {
+                "title": "Video Lectures on Stress and its Transformation: Faculty Contribution",
+                "link": "/result?q={%22t%22:%22search%22,%22k%22:%22Stress%20Transformation%22,%22s%22:[%22author=\\%22Chakraborty%2C%20J.\\%22|\\%22Chakraborty%2C%20Goutam\\%22%22,%22sourceOrganization=\\%22Faculty%20Contribution\\%22%22],%22b%22:{%22filters%22:[]}}"
+            }
+        ]
+    },
+    {
+        "name": "Mining Engineering",
+        "link": [
+            {
+                "title": "Video Lectures, Web Course : NPTEL",
+                "link": "/document/Z2JzN0ZmU2VhdW5kODBJdWRCTmg3TVg1NDBUZ1pjRnNPNEdwYUFlQkM2SENPUThJRm9DaWh4UE9tUi9IUFUwaw"
+            },
+            {
+                "title": "Video Lectures, Web Course : Swayam (NPTEL)",
+                "link": "/document/S1loNUNiRE91VEk4NzFxWDNoYW05bjBNdDVEcnBhMGJvLzE1ckdmcHJPczRuQ1ZuUXFWU3RVUW5YSVovZFhwRQ"
+            }
+        ]
+    },
+    {
+        "name": "Ocean Engineering",
+        "link": [
+            {
+                "title": "Video Lectures, Web Course : NPTEL",
+                "link": "/document/Z2JzN0ZmU2VhdW5kODBJdWRCTmg3S29WRDNLT2xXTndwSFdHWEZXbk9nbTZPZ3BhRXFuTFA4Y1VsQ1Y4Y01EcQ"
+            },
+            {
+                "title": "Video Lectures, Web Course : Swayam (NPTEL)",
+                "link": "/document/S1loNUNiRE91VEk4NzFxWDNoYW05a01aMmVBUW4vWTAvV3NpOTgwRXF6M3pDQm1EUEhVVzRac0VoanRQTEsrQw"
+            }
+        ]
+    },
+    {
+        "name": "Textile Engineering",
+        "link": [
+            {
+                "title": "Journal: OMICS International",
+                "link": "/document/VDZML1VsMlkxVEdDd0s2KzB5WEI1Nmd2R3ZpSjVDWkxFMVo1SWJPRHIzTT0"
+            },
+            {
+                "title": "Video Lectures, Web Course : NPTEL",
+                "link": "/document/Z2JzN0ZmU2VhdW5kODBJdWRCTmg3TWRhSnMxaVJRVjhqTDlWbTBjbGhyeHQ0NmZtQmU0TUNGaGUyRXQ5MDNVMg"
+            },
+            {
+                "title": "Video Lectures, Web Course : Swayam (NPTEL)",
+                "link": "/document/S1loNUNiRE91VEk4NzFxWDNoYW05bnY4di9ueGtrSFV1c0JQZmpZa2dIZGFkYWlYWnpFa1BnaXBkL3dzMEFzSg"
+            },
+            {
+                "title": "",
+                "link": ""
+            }
+        ]
+    }
+]
