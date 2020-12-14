@@ -3,13 +3,16 @@
 /*
  * @author Saikat
  */
+
+use function PHPSTORM_META\type;
+
 $files = array(
-    "School" => "School.json",
-    "Engineering" => "Engineering.json",
-    "Science" => "Science.json",
-    "Humanities & Social Sciences" => "Humanities_Social_Sciences.json",
-    "Management & Law" => "Management_Law.json",
-    "Literature"=>"Literature.json"
+    "School" => "collections-school.json",
+    "Engineering" => "collections-engineering.json",
+    "Science" => "collections-science.json",
+    "Humanities & Social Sciences" => "collections-humanities.json",
+    "Management & Law" => "collections-law_management.json",
+    "Literature"=>"collections-literature.json"
 );
 // CovidCollection CSV File location
 $filename = "C:\Users\SAIKAT\Downloads\StudyFromHome-links - Final Links.csv";
@@ -30,7 +33,7 @@ while (! feof($csvFile)) {
     if ($line) {
         if ($line[0]) {
             if ($json_out && $titleUrlData && $subject_Domain) {
-                echo "here we go";
+                // echo "here we go";
                 if (array_key_exists($json_out, $files)) {
                     $json_out = $files[$json_out];
                 }
@@ -39,7 +42,10 @@ while (! feof($csvFile)) {
                 $subjectData['name'] = $subject_Domain;
                 $subjectData['link'] = $titleUrlData;
                 array_push($subjectDataMarge, $subjectData);
+                
                 $JsonData = json_encode($subjectDataMarge,JSON_PRETTY_PRINT| JSON_UNESCAPED_SLASHES| JSON_UNESCAPED_UNICODE);
+                
+                
                 fwrite($fileJson, $JsonData);
                 unset($subjectDataMarge);
                 $subjectDataMarge = array();
@@ -63,8 +69,16 @@ while (! feof($csvFile)) {
             $titleUrlData = array();
             if ($line[2] && $line[3]) {
                 $obj_cls = array();
-                $obj_cls['title'] = $line[2];            
-                $obj_cls['link'] =urldecode($line[3]);
+                $obj_cls['title'] = $line[2];    
+                if (strpos ($line[3],"/result?q=")!==false) {
+                    $obj_cls['link']="/result?q=".urlencode(urldecode(str_replace("/result?q=","",$line[3])));      
+                    // print_r($obj_cls);
+                    // exit();
+              
+                }     
+                else{
+                    $obj_cls['link'] =urldecode($line[3]);
+                }   
                 // print_r($obj_cls);
                 // $TitleLink = json_encode($obj_cls, JSON_UNESCAPED_SLASHES);
                 array_push($titleUrlData, $obj_cls);            }
@@ -73,18 +87,28 @@ while (! feof($csvFile)) {
             if ($line[2] && $line[3]) {
                 $obj_cls = array();            
                 $obj_cls['title'] = $line[2];
-                $obj_cls['link'] = urldecode($line[3]);;     
+                if (strpos ($line[3],"/result?q=")!==false) {
+                    $obj_cls['link']="/result?q=".urlencode(urldecode(str_replace("/result?q=","",$line[3])));      
+                }     
+                else{
+                    $obj_cls['link'] =urldecode($line[3]);
+                }    
+                  
                 array_push($titleUrlData, $obj_cls);
+                
             }          
         }
     }
 }
-if ($titleUrlData && $subject_Domain && $json_out) {    
+if ($titleUrlData && $subject_Domain && $json_out) {   
+    
     $subjectData = array();
     $subjectData['name'] = $subject_Domain;    
     $subjectData['link'] = $titleUrlData;
+    // print_r($subjectData)
     array_push($subjectDataMarge, $subjectData);
-    $JsonData = json_encode($subjectDataMarge,JSON_PRETTY_PRINT| JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE);
+    $JsonData = json_encode($subjectDataMarge,JSON_PRETTY_PRINT| JSON_UNESCAPED_SLASHES| JSON_UNESCAPED_UNICODE);
+    
     if (array_key_exists($json_out, $files)) {
         $json_out = $files[$json_out];
         $fileJson = fopen($handlejson . $json_out, "w+");
